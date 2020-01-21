@@ -1,0 +1,24 @@
+body{
+  background-color: blue;
+}
+header {
+  text-align: center;
+}
+main{
+  background-color: azure;
+  width: 100vw;
+  margin-left: 0px;
+}
+.para {
+  margin-left: 10rem;
+  width: 20rem;
+  display: inline-block;
+}
+.title{
+  margin-left: 10rem;
+  width: 20rem;
+  display: inline-block;
+}
+.right {
+
+}
