@@ -1,8 +1,12 @@
 body{
-  background-color: blue;
+  margin:0px;
 }
 header {
   text-align: center;
+}
+div h1{
+  display:inline-block;
+  color:white;
 }
 main{
   background-color: azure;
@@ -10,8 +14,8 @@ main{
   margin-left: 0px;
 }
 .para {
-  margin-left: 10rem;
-  width: 20rem;
+  margin-left: 11rem;
+  width: 18rem;
   display: inline-block;
 }
 .title{
@@ -19,6 +23,45 @@ main{
   width: 20rem;
   display: inline-block;
 }
-.right {
-
+.right{
+  display:inline-block;
+  padding-left: 10rem;
+    width: 15vw;
+}
+.right div{
+  width:10rem;
+  height:7rem;
+}
+.right div.img{
+  background-color: lightblue;
+  text-align: center;
+}
+section div{
+  display:inline-block;
+}
+div p{
+  text-align: center;
+  font-size: 0.5em;
+}
+div h3{
+  text-align: center;
+}
+div.sep{
+  background-color: lightblue;
+  display:inline-block;
+  width: 22rem;
+    height: 2vw;
+    margin-left: 9rem;
+    margin-top: 2rem;
+}
+header div{
+  height:5rem;
+  background-color: lightskyblue;
+}
+.top {
+  outline: solid black 2px;
+  margin:2px;
+}
+.bottom {
+  outline: solid black 1px;
 }
